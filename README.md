@@ -1,5 +1,5 @@
 # Java-Servlet-on-Apache-Tomcat
-## Implement and Deploy a Java Sevlet on Apache Tomcat 
+## Implement and Deploy a Java Servlet on Apache Tomcat 
 
 
 What the application does: <br />
